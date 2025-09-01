@@ -1,6 +1,6 @@
 # Awesome TRNSYS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
- Curated list of awesome TRNSYS components, scripts and resources
+ Collection of awesome TRNSYS components, scripts and resources
 
 > ⚠️ Disclaimer: This is an unofficial, community-curated list of TRNSYS components, scripts, and resources. We do not create, maintain, or officially endorse any of the linked projects. Use the links at your own risk. Always review, test, and recompile any code before using it in your simulations. We cannot guarantee the accuracy, functionality, or safety of any linked resources.
 
