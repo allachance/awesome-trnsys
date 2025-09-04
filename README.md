@@ -30,12 +30,12 @@ _Library of user-defined TRNSYS components (Types); 32-bit versions are marked w
 
 - [Type277](https://github.com/usnistgov/JTRNSYS) - Loosely-coupled integration of TRNSYS and Java-based applications.
 - [Type3157](https://zenodo.org/records/6523104) - Calling Python with CFFI.
-- [Type6139](https://github.com/fmipp/trnsys-fmu) 🚩 - Export models as FMUs for co-simulation with FMI-compatible tools.
+- [Type6139](https://github.com/fmipp/trnsys-fmu) 🚩- Export models as FMUs for co-simulation with FMI-compatible tools.
 
 ### HVAC
 
 - [Type221 & 230](https://github.com/UCEEB/TRNSYSv18-thermoelectric-ventilation-unit-library) - Thermoelectric heat exchangers.
-- [Type2701](https://github.com/diismunivpm/Type2701-for-TRNSYS) 🚩 - Variable-capacity air-water heat pump for heating.
+- [Type2701](https://github.com/diismunivpm/Type2701-for-TRNSYS) 🚩- Variable-capacity air-water heat pump for heating.
 - [Type3223 & 3254](https://github.com/polymtl-bee/vcaahp-model) - Mini-split air-air heat pumps with variable-speed compressors.
 
 ### Output
@@ -45,12 +45,12 @@ _Library of user-defined TRNSYS components (Types); 32-bit versions are marked w
 
 ### Photovoltaic
 
-- [Type835](https://github.com/DnJns/TRNSYS_Type835_PVT) 🚩 - PV coupled with solar thermal collectors (PVT).
+- [Type835](https://github.com/DnJns/TRNSYS_Type835_PVT) 🚩- PV coupled with solar thermal collectors (PVT).
 
 ### Thermal Storage
 
 - [Type861](https://github.com/SPF-OST/TrnsysType861_IceStorage) - Ice storage (ice-on-coil, ice-on-plates, ice-on-capillary mat).
-- [Type3260](https://zenodo.org/records/10079199) 🚩 - Horizontal PCM storage tank.
+- [Type3260](https://zenodo.org/records/10079199) 🚩- Horizontal PCM storage tank.
 
 ### Utility
 
@@ -63,11 +63,11 @@ _Library of user-defined TRNSYS components (Types); 32-bit versions are marked w
 
 ### Other Resources
 
-- [TRNLIB 15](https://sel.me.wisc.edu/trnsys/trnlib/library16.htm) 🚩 - User-written components (TRNSYS 16).
-- [TRNLIB 16](https://sel.me.wisc.edu/trnsys/trnlib/library15.htm) 🚩 - User-written components (TRNSYS 15).
-- [STEC Library](https://sel.me.wisc.edu/trnsys/trnlib/stec/stec.htm) 🚩 - Solar Thermal Electric Components (TRNSYS 16).
-- [TESS Library](https://sel.me.wisc.edu/trnsys/trnlib/library15.htm) 💵 - Paid/commercial components developed by TESS.
-- [Transsolar Library](https://sel.me.wisc.edu/trnsys/trnlib/library15.htm) 💵 - Paid/commercial components developed by Transsolar.
+- [TRNLIB 15](https://sel.me.wisc.edu/trnsys/trnlib/library16.htm) 🚩- User-written components (TRNSYS 16).
+- [TRNLIB 16](https://sel.me.wisc.edu/trnsys/trnlib/library15.htm) 🚩- User-written components (TRNSYS 15).
+- [STEC Library](https://sel.me.wisc.edu/trnsys/trnlib/stec/stec.htm) 🚩- Solar Thermal Electric Components (TRNSYS 16).
+- [TESS Library](https://sel.me.wisc.edu/trnsys/trnlib/library15.htm) 💵- Paid/commercial components developed by TESS.
+- [Transsolar Library](https://sel.me.wisc.edu/trnsys/trnlib/library15.htm) 💵- Paid/commercial components developed by Transsolar.
 
 ## Compiler
 
