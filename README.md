@@ -66,9 +66,7 @@ _Library of user-defined TRNSYS components (Types); 32-bit versions are marked w
 
 - [TRNLIB 15](https://sel.me.wisc.edu/trnsys/trnlib/library16.htm)🚩 - User-written components (TRNSYS 16).
 - [TRNLIB 16](https://sel.me.wisc.edu/trnsys/trnlib/library15.htm)🚩 - User-written components (TRNSYS 15).
-
 - [STEC Library](https://sel.me.wisc.edu/trnsys/trnlib/stec/stec.htm)🚩 - Solar Thermal Electric Components (TRNSYS 16).
-
 - [TESS Library](https://sel.me.wisc.edu/trnsys/trnlib/library15.htm)💵 - Paid/commercial components developed by TESS.
 - [Transsolar Library](https://sel.me.wisc.edu/trnsys/trnlib/library15.htm)💵 - Paid/commercial components developed by Transsolar.
 
