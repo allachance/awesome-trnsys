@@ -70,7 +70,9 @@ _Library of user-defined TRNSYS components (Types); 32-bit versions are marked w
 
 ## Compiler
 
-- [Rust](https://github.com/JunfXiao/trnsys-rust-template) - Rust-based compiler based on the TRNSYS C++ template.
+- [Rust](https://github.com/JunfXiao/trnsys-rust-template) - First template for compiling TRNSYS component using Rust.
+- [Rust](https://github.com/yakaibai/trnsys_type_with_rust)) - Second template for compiling TRNSYS component using Rust.
+- [Nim]((https://github.com/allachance/trnsys-nim-template)) - Template for compiling TRNSYS component using Nim.
 
 ## Contribute
 
